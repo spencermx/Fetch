@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35527.113 d17.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fetch.WebApi", "Fetch.WebApi\Fetch.WebApi.csproj", "{F30931DD-CAB7-4880-9500-A463A69C763A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fetch", "Fetch\Fetch.csproj", "{3194F77D-1F21-4578-B118-7AA58E462703}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fetch.Tests", "Fetch.Tests\Fetch.Tests.csproj", "{0CA4F4E9-B55D-4827-84C3-59FCA4E0CC37}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F30931DD-CAB7-4880-9500-A463A69C763A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F30931DD-CAB7-4880-9500-A463A69C763A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F30931DD-CAB7-4880-9500-A463A69C763A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F30931DD-CAB7-4880-9500-A463A69C763A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3194F77D-1F21-4578-B118-7AA58E462703}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3194F77D-1F21-4578-B118-7AA58E462703}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3194F77D-1F21-4578-B118-7AA58E462703}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3194F77D-1F21-4578-B118-7AA58E462703}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0CA4F4E9-B55D-4827-84C3-59FCA4E0CC37}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0CA4F4E9-B55D-4827-84C3-59FCA4E0CC37}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0CA4F4E9-B55D-4827-84C3-59FCA4E0CC37}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0CA4F4E9-B55D-4827-84C3-59FCA4E0CC37}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
